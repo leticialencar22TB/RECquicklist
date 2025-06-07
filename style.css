@@ -4,3 +4,20 @@
     box-sizing:0;
     font-family: "Inter", sans-serif; 
 }
+
+:root {
+    font-size: 62.5%;
+
+    --background-primary: #F4F5FB;
+    --background-secondary: #fff;
+    --color-brand: #CA3884;
+    --color-brand-hover: #A52C6B;
+    --color-danger: #c93847;
+    --content-primary: #080b12;
+    --content-secondary: #374151;
+    --content-tertiary: #9ca3af;
+    --always-white: #fff;
+    --border-primary: #d1d5db;
+    --border-hover: #b9c2d0;
+
+}
