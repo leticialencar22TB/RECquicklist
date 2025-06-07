@@ -18,6 +18,28 @@
     --content-tertiary: #9ca3af;
     --always-white: #fff;
     --border-primary: #d1d5db;
-    --border-hover: #b9c2d0;
+    --border-hover: #b9c2d0; 
 
 }
+
+body {
+    font-size: 1.6rem;
+    padding: 3.2rem;
+    background: var(--background-primary);
+}
+
+header {
+    margin-bottom: 4.4rem;
+    max-width: 62.7rem;
+    margin-inline: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+
+    img {
+    width: 15.4rem;
+    margin-inline: auto;
+    margin-bottom: 3rem;
+}
+}
+
