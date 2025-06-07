@@ -1,0 +1,23 @@
+[33mcommit 1e6144f187f113bc073dc6f61a1fd6231021e36b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Letícia de Alencar Fernandes <leticiaafernandes.04092008@edu.sme.prefeitura.sp.gov.br>
+Date:   Fri Jun 6 23:03:39 2025 +0000
+
+    criação da section.list e desenvolvimento da primeira parte do HTML
+
+[33mcommit d6e0fc0839ff2bc829424bfc7078b79085131ad4[m
+Author: Letícia de Alencar Fernandes <leticiaafernandes.04092008@edu.sme.prefeitura.sp.gov.br>
+Date:   Fri Jun 6 15:00:02 2025 +0000
+
+    criação da section.add-item
+
+[33mcommit 8329ea363151743ad2037b0ad55569059ba5bb5c[m
+Author: Letícia de Alencar Fernandes <leticiaafernandes.04092008@edu.sme.prefeitura.sp.gov.br>
+Date:   Fri Jun 6 14:52:50 2025 +0000
+
+    adição da biblioteca phosphor icons e adição do header no index.html
+
+[33mcommit c57ab09147d0ead78f418714b03c21c73a3dee75[m
+Author: Letícia de Alencar Fernandes <leticiaafernandes.04092008@edu.sme.prefeitura.sp.gov.br>
+Date:   Fri Jun 6 14:42:37 2025 +0000
+
+    primeiro commit, adição do index.html
